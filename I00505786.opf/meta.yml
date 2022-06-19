@@ -1,0 +1,38 @@
+id: I00505786
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T09:58:15.751744'
+last_modified: '2022-06-19T09:58:15.751756'
+parser: null
+source_metadata:
+  title: Autobiography of Mang thos Klu sgrub rgya mtsho (1523–1596); Lamdre Lobshe,
+    vol. ga, title no. 3
+  author: མང་ཐོས་ཀླུ་སྒྲུབ་རྒྱ་མཚོ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-08-26);
+    unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - 'Digital edition: ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)'
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), ཀུན་དགའ་རྡོ་རྗེ། (Kathmandu) (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/563
+  bases:
+    1de5:
+      title: Autobiography of Mang thos Klu sgrub rgya mtsho (1523–1596); Lamdre Lobshe,
+        vol. ga, title no. 3
+      order: 1
+      base_file: 1de5.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
